@@ -1,1 +1,2 @@
-# template
+# Node.js boilerplate
+

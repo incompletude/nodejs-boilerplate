@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "1.0.0",
+  "author": "André Freitas <contato@andrefreitas.dev>",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon --exec babel-node ./server/index.js"
+  }
+}
